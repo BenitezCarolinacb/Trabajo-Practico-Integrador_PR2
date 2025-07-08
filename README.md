@@ -1,103 +1,103 @@
 🎬 Sistema de Gestión para un Cine
+
 Este proyecto tiene como objetivo el desarrollo de un sistema integral para la administración de un cine, permitiendo tanto a empleados como a clientes interactuar con la cartelera, funciones y ventas de manera eficiente y organizada.
 
 🧰 Funcionalidades principales
 👨‍💼 Empleados
 🎞️ Gestión de películas, funciones y salas
+* Modificación de precios y fechas de funciones
 
-💲 Modificación de precios y fechas de funciones
+* Generación de informes de recaudación:
 
-📊 Generación de informes de recaudación:
+*Mensual / Anual
 
-Mensual / Anual
+*Por función / película
 
-Por función / película
-
-Por vendedor / medio de pago
+*Por vendedor / medio de pago
 
 📋 Listados completos de todas las entidades del sistema
 
-🎟️ Clientes
-🔍 Consulta de precios y funciones disponibles
+* Clientes
+* Consulta de precios y funciones disponibles
 
-📅 Visualización de cartelera y horarios
+* Visualización de cartelera y horarios
 
-🛒 Realización de compras de entradas
+* Realización de compras de entradas
 
 🗃️ Estructura de datos
-🧾 Venta
-🆔 ID venta
+* Venta
+* ID venta
 
-👤 ID empleado
+* ID empleado
 
-🎭 ID función
+* ID función
 
-🎫 Cantidad de entradas
+*Cantidad de entradas
 
-📅 Fecha
+* Fecha
 
-💳 Forma de pago
+* Forma de pago
 
-💰 Importe total
+* Importe total
 
 👥 Persona (Clase base)
-🧑 Nombre
+* Nombre
 
-🧑‍🦰 Apellido
+* Apellido
 
-🆔 DNI
+* DNI
 
-📧 Email
+* Email
 
-📞 Teléfono
+* Teléfono
 
 🙋 Cliente (Hereda de Persona)
-🆔 ID cliente
+* ID cliente
 
-📞 Teléfono
+* Teléfono
 
-📧 Email
+* Email
 
-🆔 DNI
+* DNI
 
-🧑 Nombre
+*Nombre
 
-🧑‍🦰 Apellido
+* Apellido
 
 🧑‍💼 Vendedor (Hereda de Persona)
-🆔 ID vendedor
+*ID vendedor
 
-💵 Sueldo
+* Sueldo
 
-📞 Teléfono
+* Teléfono
 
-📧 Email
+* Email
 
-🆔 DNI
+* DNI
 
-🧑 Nombre
+*Nombre
 
-🧑‍🦰 Apellido
+* Apellido
 
-🎬 Película
-🆔 ID película
+📅 Película
+* ID película
 
-🎞️ Título
+* Título
 
-🎭 Género
+* Género
 
-⏱️ Duración
+* Duración
 
-🕒 Función
-🆔 ID función
+📅 Función
+* ID función
 
-🆔 ID sala
+* ID sala
 
-🆔 ID película
+* ID película
 
-📅 Fecha
+* Fecha
 
-💲 Precio
+* Precio
 
 🪑 Sala
 
