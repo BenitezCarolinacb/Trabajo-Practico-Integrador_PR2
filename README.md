@@ -9,11 +9,11 @@ Este proyecto tiene como objetivo el desarrollo de un sistema integral para la a
 
 * Generación de informes de recaudación:
 
-*Mensual / Anual
+* Mensual / Anual
 
-*Por función / película
+* Por función / película
 
-*Por vendedor / medio de pago
+* Por vendedor / medio de pago
 
 📋 Listados completos de todas las entidades del sistema
 
@@ -60,7 +60,7 @@ Este proyecto tiene como objetivo el desarrollo de un sistema integral para la a
 
 * DNI
 
-*Nombre
+* Nombre
 
 * Apellido
 
@@ -75,7 +75,7 @@ Este proyecto tiene como objetivo el desarrollo de un sistema integral para la a
 
 * DNI
 
-*Nombre
+* Nombre
 
 * Apellido
 
