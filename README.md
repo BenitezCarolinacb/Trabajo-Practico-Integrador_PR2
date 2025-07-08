@@ -99,7 +99,7 @@ Este proyecto tiene como objetivo el desarrollo de un sistema integral para la a
 
 * Precio
 
-🪑 Sala
+* Sala
 
-🆔 ID sala
+* ID sala
 
