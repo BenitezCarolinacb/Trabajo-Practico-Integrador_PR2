@@ -1,0 +1,289 @@
+# depslib dependency file v1.0
+1733703694 source:c:\users\carolina\desktop\proyecto final programacion\proyectofinal_prii\fconfiguraciones.cpp
+	<iostream>
+	"ClsCliente.h"
+	"ClsFuncion.h"
+	"ClsPelicula.h"
+	"ClsVendedor.h"
+	"ClsSala.h"
+	"ClsVentas.h"
+	"FConfiguraciones.h"
+
+1733883218 c:\users\carolina\desktop\proyecto final programacion\proyectofinal_prii\clscliente.h
+	"ClsPersona.h"
+
+1733883448 c:\users\carolina\desktop\proyecto final programacion\proyectofinal_prii\clspersona.h
+	<string.h>
+	<iostream>
+	"FGenerales.h"
+
+1733882505 c:\users\carolina\desktop\proyecto final programacion\proyectofinal_prii\fgenerales.h
+	"ClsFecha.h"
+
+1733909765 c:\users\carolina\desktop\proyecto final programacion\proyectofinal_prii\clsfecha.h
+
+1733710192 c:\users\carolina\desktop\proyecto final programacion\proyectofinal_prii\clsfuncion.h
+	"ClsFecha.h"
+	"ClsPelicula.h"
+	"FGenerales.h"
+	"ClsSala.h"
+
+1733922808 c:\users\carolina\desktop\proyecto final programacion\proyectofinal_prii\clspelicula.h
+	<cstring>
+	<iomanip>
+	"FGenerales.h"
+
+1733706225 c:\users\carolina\desktop\proyecto final programacion\proyectofinal_prii\clssala.h
+	"FGenerales.h"
+
+1733706220 c:\users\carolina\desktop\proyecto final programacion\proyectofinal_prii\clsvendedor.h
+	"ClsPersona.h"
+	"FGenerales.h"
+
+1733701511 c:\users\carolina\desktop\proyecto final programacion\proyectofinal_prii\clsventas.h
+	"ArchFuncion.h"
+	"ClsFecha.h"
+	"FGenerales.h"
+	"ClsVendedor.h"
+	"ClsPelicula.h"
+
+1733914718 c:\users\carolina\desktop\proyecto final programacion\proyectofinal_prii\archfuncion.h
+	<cstring>
+	"ClsFuncion.h"
+
+1733694806 c:\users\carolina\desktop\proyecto final programacion\proyectofinal_prii\fconfiguraciones.h
+
+1733918735 source:c:\users\carolina\desktop\proyecto final programacion\proyectofinal_prii\fgenerales.cpp
+	<iostream>
+	"ArchFuncion.h"
+	"ClsFuncion.h"
+	"ClsFecha.h"
+	"ArchVentas.h"
+	"ClsVentas.h"
+	"ArchPelicula.h"
+	"ArchVendedor.h"
+	"ClsVendedor.h"
+	"FGenerales.h"
+
+1733882483 c:\users\carolina\desktop\proyecto final programacion\proyectofinal_prii\archventas.h
+	"ClsVentas.h"
+
+1733923948 c:\users\carolina\desktop\proyecto final programacion\proyectofinal_prii\archpelicula.h
+
+1733914718 c:\users\carolina\desktop\proyecto final programacion\proyectofinal_prii\archvendedor.h
+	"ClsVendedor.h"
+
+1733923948 source:c:\users\carolina\desktop\proyecto final programacion\proyectofinal_prii\fmodificarregistros.cpp
+	<iostream>
+	"ClsVendedor.h"
+	"ArchVendedor.h"
+	"ClsFuncion.h"
+	"ArchFuncion.h"
+	"ClsFecha.h"
+	"ArchPelicula.h"
+	"ClsPelicula.h"
+	"ArchSala.h"
+	"ClsSala.h"
+	"ArchCliente.h"
+	"ClsCliente.h"
+
+1733889488 c:\users\carolina\desktop\proyecto final programacion\proyectofinal_prii\archsala.h
+	"ClsSala.h"
+
+1733921143 c:\users\carolina\desktop\proyecto final programacion\proyectofinal_prii\archcliente.h
+	"ClsCliente.h"
+	<cstring>
+
+1733922564 source:c:\users\carolina\desktop\proyecto final programacion\proyectofinal_prii\main.cpp
+	<iostream>
+	"FMenus.h"
+
+1733878892 c:\users\carolina\desktop\proyecto final programacion\proyectofinal_prii\fmenus.h
+
+1733918735 source:c:\users\carolina\desktop\proyecto final programacion\proyectofinal_prii\fmenus.cpp
+	<iostream>
+	"FGenerales.h"
+	"ClsCliente.h"
+	"ArchCliente.h"
+	"Cargar.h"
+	"Mostrar.h"
+	"FModificarRegistros.h"
+	"FConfiguraciones.h"
+	"FMenus.h"
+
+1733922239 c:\users\carolina\desktop\proyecto final programacion\proyectofinal_prii\cargar.h
+	"ClsPelicula.h"
+	"ArchPelicula.h"
+	"ClsFuncion.h"
+	"ArchFuncion.h"
+	"ArchPelicula.h"
+	"ClsPelicula.h"
+	"ArchSala.h"
+	"ClsSala.h"
+	"ArchCliente.h"
+	"ClsCliente.h"
+	"ArchVendedor.h"
+	"ClsVendedor.h"
+	"ClsVentas.h"
+	"ArchVentas.h"
+
+1733922533 c:\users\carolina\desktop\proyecto final programacion\proyectofinal_prii\mostrar.h
+	"ArchPelicula.h"
+	"ClsPelicula.h"
+	"ArchVentas.h"
+	"ClsVentas.h"
+	"ArchFuncion.h"
+	"ClsFuncion.h"
+	"ArchSala.h"
+	"ClsSala.h"
+	"ArchCliente.h"
+	"ClsCliente.h"
+	"FGenerales.h"
+	"FMenus.h"
+
+1733842456 c:\users\carolina\desktop\proyecto final programacion\proyectofinal_prii\fmodificarregistros.h
+
+1733703694 source:c:\users\carolina\desktop\progrmación ii\1 proyecto final programacion\proyectofinal_prii\fconfiguraciones.cpp
+	<iostream>
+	"ClsCliente.h"
+	"ClsFuncion.h"
+	"ClsPelicula.h"
+	"ClsVendedor.h"
+	"ClsSala.h"
+	"ClsVentas.h"
+	"FConfiguraciones.h"
+
+1733883218 c:\users\carolina\desktop\progrmación ii\1 proyecto final programacion\proyectofinal_prii\clscliente.h
+	"ClsPersona.h"
+
+1733883448 c:\users\carolina\desktop\progrmación ii\1 proyecto final programacion\proyectofinal_prii\clspersona.h
+	<string.h>
+	<iostream>
+	"FGenerales.h"
+
+1733882505 c:\users\carolina\desktop\progrmación ii\1 proyecto final programacion\proyectofinal_prii\fgenerales.h
+	"ClsFecha.h"
+
+1733909765 c:\users\carolina\desktop\progrmación ii\1 proyecto final programacion\proyectofinal_prii\clsfecha.h
+
+1733710192 c:\users\carolina\desktop\progrmación ii\1 proyecto final programacion\proyectofinal_prii\clsfuncion.h
+	"ClsFecha.h"
+	"ClsPelicula.h"
+	"FGenerales.h"
+	"ClsSala.h"
+
+1733922808 c:\users\carolina\desktop\progrmación ii\1 proyecto final programacion\proyectofinal_prii\clspelicula.h
+	<cstring>
+	<iomanip>
+	"FGenerales.h"
+
+1733706225 c:\users\carolina\desktop\progrmación ii\1 proyecto final programacion\proyectofinal_prii\clssala.h
+	"FGenerales.h"
+
+1733706220 c:\users\carolina\desktop\progrmación ii\1 proyecto final programacion\proyectofinal_prii\clsvendedor.h
+	"ClsPersona.h"
+	"FGenerales.h"
+
+1733701511 c:\users\carolina\desktop\progrmación ii\1 proyecto final programacion\proyectofinal_prii\clsventas.h
+	"ArchFuncion.h"
+	"ClsFecha.h"
+	"FGenerales.h"
+	"ClsVendedor.h"
+	"ClsPelicula.h"
+
+1733914718 c:\users\carolina\desktop\progrmación ii\1 proyecto final programacion\proyectofinal_prii\archfuncion.h
+	<cstring>
+	"ClsFuncion.h"
+
+1733694806 c:\users\carolina\desktop\progrmación ii\1 proyecto final programacion\proyectofinal_prii\fconfiguraciones.h
+
+1733918735 source:c:\users\carolina\desktop\progrmación ii\1 proyecto final programacion\proyectofinal_prii\fgenerales.cpp
+	<iostream>
+	"ArchFuncion.h"
+	"ClsFuncion.h"
+	"ClsFecha.h"
+	"ArchVentas.h"
+	"ClsVentas.h"
+	"ArchPelicula.h"
+	"ArchVendedor.h"
+	"ClsVendedor.h"
+	"FGenerales.h"
+
+1733882483 c:\users\carolina\desktop\progrmación ii\1 proyecto final programacion\proyectofinal_prii\archventas.h
+	"ClsVentas.h"
+
+1733923948 c:\users\carolina\desktop\progrmación ii\1 proyecto final programacion\proyectofinal_prii\archpelicula.h
+
+1733914718 c:\users\carolina\desktop\progrmación ii\1 proyecto final programacion\proyectofinal_prii\archvendedor.h
+	"ClsVendedor.h"
+
+1733918735 source:c:\users\carolina\desktop\progrmación ii\1 proyecto final programacion\proyectofinal_prii\fmenus.cpp
+	<iostream>
+	"FGenerales.h"
+	"ClsCliente.h"
+	"ArchCliente.h"
+	"Cargar.h"
+	"Mostrar.h"
+	"FModificarRegistros.h"
+	"FConfiguraciones.h"
+	"FMenus.h"
+
+1733921143 c:\users\carolina\desktop\progrmación ii\1 proyecto final programacion\proyectofinal_prii\archcliente.h
+	"ClsCliente.h"
+	<cstring>
+
+1733922239 c:\users\carolina\desktop\progrmación ii\1 proyecto final programacion\proyectofinal_prii\cargar.h
+	"ClsPelicula.h"
+	"ArchPelicula.h"
+	"ClsFuncion.h"
+	"ArchFuncion.h"
+	"ArchPelicula.h"
+	"ClsPelicula.h"
+	"ArchSala.h"
+	"ClsSala.h"
+	"ArchCliente.h"
+	"ClsCliente.h"
+	"ArchVendedor.h"
+	"ClsVendedor.h"
+	"ClsVentas.h"
+	"ArchVentas.h"
+
+1733889488 c:\users\carolina\desktop\progrmación ii\1 proyecto final programacion\proyectofinal_prii\archsala.h
+	"ClsSala.h"
+
+1733922533 c:\users\carolina\desktop\progrmación ii\1 proyecto final programacion\proyectofinal_prii\mostrar.h
+	"ArchPelicula.h"
+	"ClsPelicula.h"
+	"ArchVentas.h"
+	"ClsVentas.h"
+	"ArchFuncion.h"
+	"ClsFuncion.h"
+	"ArchSala.h"
+	"ClsSala.h"
+	"ArchCliente.h"
+	"ClsCliente.h"
+	"FGenerales.h"
+	"FMenus.h"
+
+1733878892 c:\users\carolina\desktop\progrmación ii\1 proyecto final programacion\proyectofinal_prii\fmenus.h
+
+1733842456 c:\users\carolina\desktop\progrmación ii\1 proyecto final programacion\proyectofinal_prii\fmodificarregistros.h
+
+1733923948 source:c:\users\carolina\desktop\progrmación ii\1 proyecto final programacion\proyectofinal_prii\fmodificarregistros.cpp
+	<iostream>
+	"ClsVendedor.h"
+	"ArchVendedor.h"
+	"ClsFuncion.h"
+	"ArchFuncion.h"
+	"ClsFecha.h"
+	"ArchPelicula.h"
+	"ClsPelicula.h"
+	"ArchSala.h"
+	"ClsSala.h"
+	"ArchCliente.h"
+	"ClsCliente.h"
+
+1733922564 source:c:\users\carolina\desktop\progrmación ii\1 proyecto final programacion\proyectofinal_prii\main.cpp
+	<iostream>
+	"FMenus.h"
+
